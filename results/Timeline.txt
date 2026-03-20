@@ -1,0 +1,31 @@
+The 6-Week Pre-Shortage Timeline
+Week -6 & -5 (The Calm Before the Storm): * Movements: Sales are slightly elevated (21-25% variance), but stock levels are completely stable (Burn Rate: -0.90%).
+
+World Event Tie-in (The Catalyst): This is when a global supply chain disruption occurs upstream (e.g., a raw material plastics shortage, a major manufacturer facility going offline, or a geopolitical shipping delay). The hospitals don't know it yet, and Medline's stock is fine.
+
+Week -4 (The "Information Leak" & Hoarding Trigger):
+
+Movements: The system flashes red. Sales volume violently spikes by 116.3%. 4_week_customer_variance.csv shows this is NOT new customers buying; this is existing customers increasing their individual order sizes by 23%. They are hoarding. Stock begins to drain (2.90% burn rate).
+
+World Event Tie-in (The Whisper Network): Major hospital networks and GPOs (Group Purchasing Organizations) get early intelligence from their tier-1 suppliers that a shortage is imminent. They immediately execute emergency stockpiling to protect their operations.
+
+Week -3 to -1 (The Bleed Out):
+
+Movements: The panic buying subsides to ~30%, but the damage to inventory is done. The stock burn rate accelerates to 7.81%. Substitute shifting remains flat at 26%, meaning customers are stubbornly trying to buy the primary product until the bitter end.
+
+Week 0 (The Official MBO):
+
+Movements: The competitor officially declares a Manufacturer Backorder (MBO). The primary product hits zero stock.
+
+Tying the Vulnerable Categories to 2025 World Events
+Your category_vulnerability_summary.txt shows massive spikes in Endotracheal Tubes (up 1,741%) and Feeding/Gastric Tubes (up 4,536%). If we look at the specific weeks these MBOs occurred in your data (Weeks 29, 34, 46, and 52), we can tie them directly to real-world healthcare cycles:
+
+Winter Respiratory Season (Weeks 46 & 52 / Nov & Dec): * The Event: The convergence of the winter Flu, RSV, and COVID-19 seasons causes a massive surge in ICU admissions.
+
+The Data Connection: Patients admitted for severe respiratory distress require ventilation (Endotracheal Tubes). Patients on ventilators cannot eat solid food and require enteral nutrition (Feeding Tubes and Nutritional Supplements). The data perfectly reflects a winter ICU capacity crisis driving up demand for these exact categories, leading to supplier stockouts.
+
+Summer/Fall Supply Chain Shocks (Weeks 29 & 34 / July & August):
+
+The Event: Late summer is peak Atlantic hurricane season, which historically devastates the Gulf Coast where massive amounts of medical-grade plastics (PVC and polyurethane) are manufactured, and disrupts major shipping ports.
+
+The Data Connection: The raw materials used to make feeding tubes and endotracheal tubes are highly vulnerable to these weather-related manufacturing shutdowns. When a hurricane hits, hospitals know the plastics supply chain will freeze, triggering the 4-week hoarding behavior seen in your data.

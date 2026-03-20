@@ -1,0 +1,35 @@
+Financial Impact & Revenue Capture Analysis (4-Week Hoarding Window)
+=====================================================================
+
+Note: Based on dataset availability, Addressable Revenue was calculated using an estimated baseline of $50 per unit. Variables scale linearly to custom ASPs.
+
+Total Addressable Revenue (Spiked Volume of Substitutable Items): $10,502,183,850.00
+
+Revenue Capture Scenarios:
+  - Conservative (10% Capture): $1,050,218,385.00
+  - MODERATE (25% Capture)    : $2,625,545,962.50
+  - Aggressive (50% Capture)  : $5,251,091,925.00
+
+Moderate (25%) Revenue Capture Breakdown by Top 5 Substitutable Categories:
+-----------------------------------------------------------------------
+#1: Exam & Diagnostic Supplies/Vital Signs Monitoring/Thermometry/Probe Covers                                                                                                                                                                                     
+   - 25% Captured Revenue: $517,059,625.00
+   - Addressable Revenue:  $2,068,238,500.00
+
+#2: Housekeeping/Paper Products/Paper Towels                                                                                                                                                                                                                       
+   - 25% Captured Revenue: $447,684,375.00
+   - Addressable Revenue:  $1,790,737,500.00
+
+#3: UNKNOWN
+   - 25% Captured Revenue: $208,500,225.00
+   - Addressable Revenue:  $834,000,900.00
+
+#4: OR & Surgery Supplies/Masks & Eyewear/Face Masks                                                                                                                                                                                                               
+   - 25% Captured Revenue: $198,436,775.00
+   - Addressable Revenue:  $793,747,100.00
+
+#5: Exam & Diagnostic Supplies/Vital Signs Monitoring/EKG/ECG/Electrodes                                                                                                                                                                                           
+   - 25% Captured Revenue: $191,111,112.50
+   - Addressable Revenue:  $764,444,450.00
+
+Conclusion: By accurately deploying predictive substitute marketing strictly to the items within the 4-week hoarding window that possess a direct Medline cross-reference, Medline stands to capture significant market share exactly when the competitor's supply chain fails.
