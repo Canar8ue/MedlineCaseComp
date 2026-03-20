@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medline Predictive Supply Chain Analytics</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://unpkg.com/vis-network/standalone/umd/vis-network.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://unpkg.com/vis-timeline/standalone/umd/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-layout">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-titles">
+                <h1>Predictive Supply Chain Intelligence</h1>
+                <p>Modeling Competitor MBOs (Manufacturer Backorders) for Strategic Revenue Capture</p>
+            </div>
+            <div class="header-badges">
+                <span class="badge">Total Addressable Pipeline: $10.5B</span>
+                <span class="badge green">Projected Capture: $2.62B</span>
+            </div>
+        </header>
+
+        <!-- Timeline Section -->
+        <section class="timeline-section">
+            <div class="section-title">
+                <h2>Event Timeline: Path to Backorder</h2>
+                <p>The chronological sequence of predictive indicators leading up to a competitor stock-out.</p>
+            </div>
+            <div id="timeline-container"></div>
+        </section>
+
+        <!-- Bottom Split: Mindmap & Details -->
+        <section class="bottom-split">
+            <div class="mindmap-wrapper">
+                <div class="section-title">
+                    <h2>Strategic Cause & Effect Model</h2>
+                    <p>How macro events trigger hoarding behavior, mapped to actionable Medline responses.</p>
+                </div>
+                <!-- Vis Network Canvas -->
+                <div id="mindmap-container"></div>
+            </div>
+            
+            <aside class="details-panel" id="details-panel">
+                <div class="panel-header" id="panel-header">
+                    <h2>Select an Element</h2>
+                    <p>Click any timeline event or process node to view the underlying data statistics.</p>
+                </div>
+                <div class="panel-content" id="panel-content">
+                    <div class="empty-state">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#9CA3AF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+                        <p>No element selected</p>
+                    </div>
+                </div>
+            </aside>
+        </section>
+    </div>
+
+    <!-- Libraries -->
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/vis-timeline/standalone/umd/vis-timeline-graph2d.min.js"></script>
+    <!-- App Logic -->
+    <script src="app.js"></script>
+</body>
+</html>

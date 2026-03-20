@@ -1,0 +1,12 @@
+Customer Behavior Deep Dive (4 Weeks Prior to MBO)
+==================================================
+
+Average Sales Variance (vs Weeks 5-6): 37.01%
+Average Customer Count Variance: 3.62%
+Average Order Size (Hoarding) Variance: 23.04%
+
+Q1: Are a small handful of large customers responsible for this spike (hoarding behavior), or is the spike distributed evenly across all buyers?
+Answer: The spike is primarily driven by HOARDING BEHAVIOR from a relatively static or slightly elevated customer base. We observe that while the customer count only increased modestly, the volume purchased PER CUSTOMER experienced a massive surge. This indicates that existing buyers caught wind of the shortage and massively increased their individual order sizes.
+
+Q2: What is the variance in order size for these customers compared to their historical average?
+Answer: On average, individual customers increased their order sizes by 23.04% exactly 4 weeks out from the MBO. The average items per order swelled as buyers sought to build safety stock before the backorder officially began.
